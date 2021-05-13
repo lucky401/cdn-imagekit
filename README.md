@@ -1,6 +1,6 @@
 # Express + ImageKit.io Node.js SDK
 
-[![Heroku]](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat&svg=1)
+[![Heroku](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat&svg=1)]
 [![Known Vulnerabilities](https://snyk.io/test/github/lucky401/cdn-imagekit/badge.svg)](https://snyk.io/test/github/lucky401/cdn-imagekit)
 
 This is a starter CDN with [Imagekit.io](https://docs.imagekit.io) powered by [Express](https://expressjs.com/)
