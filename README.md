@@ -19,6 +19,8 @@ ImageKit Node.js SDK allows you to use [image resizing](https://docs.imagekit.io
 4. run `npm start` for production
 
 ## Initialization
+1. rename `nodemon.example.json` to `nodemon.json`
+2. edit with your imagekit.io key
 
 ```json
 {
