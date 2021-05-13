@@ -14,7 +14,7 @@ const imagekit = new ImageKit({
 const app = express();
 
 // allow cross-origin requests
-const whitelist = ['http://localhost:8080', 'https://wit.masukin.link'];
+const whitelist = ['http://localhost:3000'];
 const corsOptions = {
   origin: function (origin, callback) {
     if (!origin) return callback(null, true);
