@@ -16,7 +16,7 @@ const app = express();
 // allow cross-origin requests
 const whitelist = [
   'http://localhost:3001',
-  'http://facial-recognition.masukin.link/',
+  'https://facial-recognition.masukin.link',
 ];
 const corsOptions = {
   origin: function (origin, callback) {
